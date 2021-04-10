@@ -40,7 +40,8 @@ body{
     background-color: greenyellow;
     padding:10px 25px 10px 25px;
     border-radius: 20%;
-    font-size: 45px;
+    font-size: 40px;
+    color:white;
 }
 .checkout:hover{
     background:orange;
